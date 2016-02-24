@@ -1,2 +1,2 @@
 # plinko
-Simulate the game plinko
+Simulate the game plinko.
